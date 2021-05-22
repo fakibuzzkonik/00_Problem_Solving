@@ -1,0 +1,7 @@
+D:\00 Problem Solving\2019\Test\Equation.cpp: In function 'int main()':
+D:\00 Problem Solving\2019\Test\Equation.cpp:11:6: error: expected ',' or ';' before 'double'
+      double circle = r*r*acos(-1);
+      ^
+D:\00 Problem Solving\2019\Test\Equation.cpp:16:28: error: 'circle' was not declared in this scope
+      triangle = triangle - circle;
+                            ^

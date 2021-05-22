@@ -1,0 +1,810 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3207,
+	"last_window_id": 23,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 194.4,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"data",
+						"database"
+					],
+					[
+						"fun",
+						"functions"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/crun.sublime-build",
+							""
+						],
+						[
+							"Packages/User/crun.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/crun.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"theme",
+						"Material Theme: Activate theme"
+					],
+					[
+						"browse",
+						"Preferences: Browse Packages"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"mat",
+						"Material Theme: Activate theme"
+					],
+					[
+						"ayu",
+						"ayu: Activate theme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: clang",
+						"Package Control: Install Package"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/00 Problem Solving/2019/Junior_Practice/konik_out.in",
+				"/D/00 Problem Solving/2019/Junior_Practice/konik_in.in",
+				"/D/00 Problem Solving/2019/Junior_Practice/test.cpp",
+				"/D/00 Problem Solving/2019/Junior_Practice/Codefroces_659_C.cpp",
+				"/D/00 Problem Solving/2019/Junior_Practice/Codefroces_546_B.cpp",
+				"/D/00 Problem Solving/2019/Junior_Practice/Equation.cpp",
+				"/D/TEST/SublimeSoft/Data/Packages/User/ayu-light.sublime-theme",
+				"/D/00 Problem Solving/2019/Junior_Practice/LanguageDetection.cpp",
+				"/D/00 Problem Solving/2019/Junior_Practice/Cost_Cutting.cpp",
+				"/D/00 Problem Solving/2019/Junior_Practice/Codefroces_564_B.cpp",
+				"/D/00 Problem Solving/2019/Test/konik_out.in",
+				"/D/00 Problem Solving/2019/Test/konik_in.in",
+				"/D/00 Problem Solving/2019/Codeforces/TEST2.cpp",
+				"/D/00 Problem Solving/2019/Test/Formula.cpp",
+				"/D/00 Problem Solving/2019/Test/Equation.cpp",
+				"/D/00 Problem Solving/2019/Practice Contest/konik_out.in",
+				"/D/00 Problem Solving/2019/Practice Contest/I Wanna Be the Guy .cpp",
+				"/D/00 Problem Solving/2019/Practice Contest/konik_in.in",
+				"/D/00 Problem Solving/2019/Codeforces/Tanya and Toys .cpp",
+				"/D/00 Problem Solving/2019/Codeforces/168A.cpp",
+				"/D/00 Problem Solving/2019/Codeforces/272A.cpp",
+				"/D/00 Problem Solving/2019/Test/Final.cpp",
+				"/D/00 Problem Solving/2019/Codeforces/Formula.cpp",
+				"/D/00 Problem Solving/2019/Codeforces/121A.cpp",
+				"/D/00 Problem Solving/2019/Codeforces/konik_out.in",
+				"/D/00 Problem Solving/2019/Codeforces/konik_in.in",
+				"/D/TEST/SublimeSoft/Data/Packages/User/advance_code.sublime-snippet",
+				"/D/TEST/SublimeSoft/Data/Packages/User/base_code.sublime-snippet",
+				"/D/TEST/SublimeSoft/Data/Packages/User/Package Control.sublime-settings",
+				"/D/TEST/SublimeSoft/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/D/TEST/SublimeSoft/Data/Packages/User/EasyClangComplete.sublime-settings",
+				"/D/TEST/SublimeSoft/Data/Packages/EasyClangComplete/EasyClangComplete.sublime-settings",
+				"/D/TEST/SublimeSoft/Data/Packages/User/C++ by KONIK .sublime-build",
+				"/D/00 Problem Solving/2019/Test/outputf.in",
+				"/D/00 Problem Solving/2019/Test/inputf.in",
+				"/D/TEST/SublimeSoft/Data/Packages/User/cplusplusbackground .sublime-build",
+				"/C/Users/konik/Desktop/outputf.in",
+				"/C/Users/konik/Desktop/inputf.in",
+				"/C/Users/konik/Downloads/Ajaira/Codeforces/test/test.cpp",
+				"/C/Users/konik/Desktop/example.cpp",
+				"/C/Users/konik/Downloads/Ajaira/Codeforces/test/outputf.in",
+				"/C/Users/konik/Downloads/Ajaira/Codeforces/test/inputf.in",
+				"/D/TEST/SUBLIME/inputf.in",
+				"/D/TEST/SUBLIME/outputf.in",
+				"/D/TEST/SUBLIME/output.txt",
+				"/D/TEST/SUBLIME/input.txt",
+				"/D/Skills Devlopemt/Problem Solving/2019/SUBLIME/output.txt",
+				"/D/Skills Devlopemt/Problem Solving/2019/SUBLIME/input.txt",
+				"/D/Skills Devlopemt/Problem Solving/2019/SUBLIME/example.cpp",
+				"/C/Users/konik/Downloads/Ajaira/Codeforces/test.c",
+				"/C/Users/konik/Downloads/Ajaira/Codeforces/aa.cpp",
+				"/C/Users/konik/Downloads/Software Downloaded/Sublime Text Build 3207 x64/Data/Packages/User/crun.sublime-build",
+				"/C/Users/konik/Downloads/Software Downloaded/Sublime Text Build 3207 x64/Data/Packages/User/gcc.sublime-build"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"for(int i = 0; i<word.size(); i++){\n\t\t\tif(!isalpha(word[i])){\n\t\t\t\tword.erase(i,+1);\n\t\t\t}\n\t\t\tif(word[i] >= (int)'A' && word[i] <= (int)'Z'){\n\t\t\t\tword[i] = word[i] + 32;\n\t\t\t}\n\t\t}",
+					"else if(word == \"CIAO\")\n\t\t\tcout<<\"Case \"<<i<<\":\" << \" ITALIAN\"<<endl;\n\t\t",
+					"else if(word == \"HOLA\")\n\t\t\tcout<<\"Case \"<<i<<\":\" << \" ENGLISH\"<<endl;\n\t\t",
+					"if(percent - x <= 0)\n\t\tcout<<percent - x<<endl;\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 116.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/C++ by KONIK .sublime-build",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 1324.8
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"tok",
+						"token_id2"
+					],
+					[
+						"data",
+						"database"
+					],
+					[
+						"fun",
+						"functions"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/konik/Desktop/test.html",
+					"settings":
+					{
+						"buffer_size": 2205,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Skills_Devlopemt/Android_ALL/Android_ALL_2019/Hackathon/functions/index.js",
+					"settings":
+					{
+						"buffer_size": 4151,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nEasyClangComplete\n-----------------\n\n  Version 6.2.1\n  =============\n  \n  Improvements and bug fixes:\n  ---------------------------\n  - Expand the entries in the header_to_source_mapping setting\n  - Make ignore list more powerful by not filtering out stars in it\n  \n  Support the development!\n  ------------------------\n  💜 this plugin? Please consider buying me a 🍵\n  https://github.com/niosus/EasyClangComplete#support-it\n  \n  Thanks to all the awesome contributors!\n  If you add bounties to Bountysource you can support them too!\n  https://www.bountysource.com/teams/easyclangcomplete\n  \n  Become a backer on Open Collective!\n  https://opencollective.com/EasyClangComplete#backers\n  \n  I you use this plugin in a company, push to become a sponsor!\n  https://opencollective.com/EasyClangComplete#sponsor\n  \n  This plugin took a significant amount of effort. It is available and will always\n  be available for free, both as freedom and as beer.\n  \n  If you appreciate it - support it. How much would you say it is worth to you?\n",
+					"settings":
+					{
+						"buffer_size": 1080,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/crun.sublime-build",
+							""
+						],
+						[
+							"Packages/User/crun.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/crun.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"theme",
+						"Material Theme: Activate theme"
+					],
+					[
+						"browse",
+						"Preferences: Browse Packages"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"mat",
+						"Material Theme: Activate theme"
+					],
+					[
+						"ayu",
+						"ayu: Activate theme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: clang",
+						"Package Control: Install Package"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Skills_Devlopemt/Android_ALL/Firebase_Funciton/Wind_Pendrive/ClassLeader/notificationFunction/functions/index.js",
+				"/D/Skills_Devlopemt/Android_ALL/Firebase_Funciton/Notification_NoyonPakhi/functions/index.js",
+				"/D/Skills_Devlopemt/Android_ALL/Firebase_Funciton/Notification_NoyonPakhi/functions/test.js",
+				"/D/00 Problem Solving/2019/Test/vector.cpp",
+				"/D/00 Problem Solving/2019/Test/List.cpp",
+				"/D/00 Problem Solving/2019/Test/STL_A.cpp",
+				"/D/00 Problem Solving/2019/Test/konik_in.in",
+				"/D/00 Problem Solving/2019/Junior_Practice/konik_out.in",
+				"/D/00 Problem Solving/2019/Junior_Practice/konik_in.in",
+				"/D/00 Problem Solving/2019/Junior_Practice/test.cpp",
+				"/D/00 Problem Solving/2019/Junior_Practice/Codefroces_659_C.cpp",
+				"/D/00 Problem Solving/2019/Junior_Practice/Codefroces_546_B.cpp",
+				"/D/00 Problem Solving/2019/Junior_Practice/Equation.cpp",
+				"/D/TEST/SublimeSoft/Data/Packages/User/ayu-light.sublime-theme",
+				"/D/00 Problem Solving/2019/Junior_Practice/LanguageDetection.cpp",
+				"/D/00 Problem Solving/2019/Junior_Practice/Cost_Cutting.cpp",
+				"/D/00 Problem Solving/2019/Junior_Practice/Codefroces_564_B.cpp",
+				"/D/00 Problem Solving/2019/Test/konik_out.in",
+				"/D/00 Problem Solving/2019/Codeforces/TEST2.cpp",
+				"/D/00 Problem Solving/2019/Test/Formula.cpp",
+				"/D/00 Problem Solving/2019/Test/Equation.cpp",
+				"/D/00 Problem Solving/2019/Practice Contest/konik_out.in",
+				"/D/00 Problem Solving/2019/Practice Contest/I Wanna Be the Guy .cpp",
+				"/D/00 Problem Solving/2019/Practice Contest/konik_in.in",
+				"/D/00 Problem Solving/2019/Codeforces/Tanya and Toys .cpp",
+				"/D/00 Problem Solving/2019/Codeforces/168A.cpp",
+				"/D/00 Problem Solving/2019/Codeforces/272A.cpp",
+				"/D/00 Problem Solving/2019/Test/Final.cpp",
+				"/D/00 Problem Solving/2019/Codeforces/Formula.cpp",
+				"/D/00 Problem Solving/2019/Codeforces/121A.cpp",
+				"/D/00 Problem Solving/2019/Codeforces/konik_out.in",
+				"/D/00 Problem Solving/2019/Codeforces/konik_in.in",
+				"/D/TEST/SublimeSoft/Data/Packages/User/advance_code.sublime-snippet",
+				"/D/TEST/SublimeSoft/Data/Packages/User/base_code.sublime-snippet",
+				"/D/TEST/SublimeSoft/Data/Packages/User/Package Control.sublime-settings",
+				"/D/TEST/SublimeSoft/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/D/TEST/SublimeSoft/Data/Packages/User/EasyClangComplete.sublime-settings",
+				"/D/TEST/SublimeSoft/Data/Packages/EasyClangComplete/EasyClangComplete.sublime-settings",
+				"/D/TEST/SublimeSoft/Data/Packages/User/C++ by KONIK .sublime-build",
+				"/D/00 Problem Solving/2019/Test/outputf.in",
+				"/D/00 Problem Solving/2019/Test/inputf.in",
+				"/D/TEST/SublimeSoft/Data/Packages/User/cplusplusbackground .sublime-build",
+				"/C/Users/konik/Desktop/outputf.in",
+				"/C/Users/konik/Desktop/inputf.in",
+				"/C/Users/konik/Downloads/Ajaira/Codeforces/test/test.cpp",
+				"/C/Users/konik/Desktop/example.cpp",
+				"/C/Users/konik/Downloads/Ajaira/Codeforces/test/outputf.in",
+				"/C/Users/konik/Downloads/Ajaira/Codeforces/test/inputf.in",
+				"/D/TEST/SUBLIME/inputf.in",
+				"/D/TEST/SUBLIME/outputf.in",
+				"/D/TEST/SUBLIME/output.txt",
+				"/D/TEST/SUBLIME/input.txt",
+				"/D/Skills Devlopemt/Problem Solving/2019/SUBLIME/output.txt",
+				"/D/Skills Devlopemt/Problem Solving/2019/SUBLIME/input.txt",
+				"/D/Skills Devlopemt/Problem Solving/2019/SUBLIME/example.cpp",
+				"/C/Users/konik/Downloads/Ajaira/Codeforces/test.c",
+				"/C/Users/konik/Downloads/Ajaira/Codeforces/aa.cpp",
+				"/C/Users/konik/Downloads/Software Downloaded/Sublime Text Build 3207 x64/Data/Packages/User/crun.sublime-build",
+				"/C/Users/konik/Downloads/Software Downloaded/Sublime Text Build 3207 x64/Data/Packages/User/gcc.sublime-build"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"admin",
+					"Before",
+					">\n",
+					"SENSOR_OFF_TIME",
+					"Missing_Time",
+					"payload",
+					"payload2",
+					"token_id2",
+					"token_topic",
+					"token_id2",
+					"afterData",
+					");\n",
+					"error",
+					"val",
+					"for(int i = 0; i<word.size(); i++){\n\t\t\tif(!isalpha(word[i])){\n\t\t\t\tword.erase(i,+1);\n\t\t\t}\n\t\t\tif(word[i] >= (int)'A' && word[i] <= (int)'Z'){\n\t\t\t\tword[i] = word[i] + 32;\n\t\t\t}\n\t\t}",
+					"else if(word == \"CIAO\")\n\t\t\tcout<<\"Case \"<<i<<\":\" << \" ITALIAN\"<<endl;\n\t\t",
+					"else if(word == \"HOLA\")\n\t\t\tcout<<\"Case \"<<i<<\":\" << \" ENGLISH\"<<endl;\n\t\t",
+					"if(percent - x <= 0)\n\t\tcout<<percent - x<<endl;\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/konik/Desktop/test.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2205,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										2205
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 45.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Skills_Devlopemt/Android_ALL/Android_ALL_2019/Hackathon/functions/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4151,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										968,
+										968
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 503.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1080,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1080,
+										1080
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.967447916667,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 116.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/C++ by KONIK .sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,462,760,97,2314",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				]
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 5,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
